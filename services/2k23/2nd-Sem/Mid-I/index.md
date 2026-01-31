@@ -1,4 +1,9 @@
-### 🏡 Home
+---
+layout: default
+title: 
+---
+
+ ### 🏡 Home
 
 ---
 - [Differential Equations and Vector Calculus](https://github.com/JNTUGV-EXAM-PAPERS/2k23/tree/main/2nd-Sem/Mid-I/DifferentialEquationsAndVectorCalculus.jpg)

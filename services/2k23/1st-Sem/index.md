@@ -1,4 +1,9 @@
-### 🏡 Home
+---
+layout: default
+title: 
+---
+
+ ### 🏡 Home
 
 ---
 - [Mid-I](Mid-I/index.md)

@@ -1,4 +1,9 @@
-### 🏡 Home
+---
+layout: default
+title: 
+---
+
+ ### 🏡 Home
 
 ---
 - [Probability and Statistics](https://github.com/JNTUGV-EXAM-PAPERS/2k23/tree/main/4th-Sem/Mid-II/ProbabilityandStatistics.jpg)
