@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Services
+title: Services 
+nav_exclude: true
+
 ---
 
  ### 🏡 Home
