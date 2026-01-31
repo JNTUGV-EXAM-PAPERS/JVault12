@@ -1,4 +1,9 @@
-### 🏡 Home
+---
+layout: default
+title: 
+---
+
+ ### 🏡 Home
 
 ---
 - [Computer Networks](https://github.com/JNTUGV-EXAM-PAPERS/2k23/tree/main/5th-Sem/External-Papers/ComputerNetworks.jpg)

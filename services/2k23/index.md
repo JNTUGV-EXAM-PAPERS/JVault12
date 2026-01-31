@@ -1,4 +1,9 @@
-### 🏡 Home
+---
+layout: default
+title: 
+---
+
+ ### 🏡 Home
 
 ---
 - [1st-Sem](1st-Sem/index.md)

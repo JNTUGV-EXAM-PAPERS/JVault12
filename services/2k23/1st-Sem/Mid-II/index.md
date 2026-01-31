@@ -1,4 +1,9 @@
-### 🏡 Home
+---
+layout: default
+title: 
+---
+
+ ### 🏡 Home
 
 ---
 - [Communicative English](https://github.com/JNTUGV-EXAM-PAPERS/2k23/tree/main/1st-Sem/Mid-II/CommunicativeEnglish.jpg)
