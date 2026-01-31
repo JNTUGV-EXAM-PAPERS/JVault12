@@ -1,9 +1,9 @@
 title: "📄 JVault"
 theme: minima
 
-# Manual Navigation:
+# Manual Navigation
 nav:
   - title: Home
     url: /
   - title: Services
-    url: services/
+    url: /services/

@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Services
+title: 
 ---
 
 ### 🏡 Home
 
 ---
+
 - [2k23](2k23/index.md)
 
 ---
@@ -15,4 +16,5 @@ title: Services
 ---
 
 - [2k25](2k25/index.md)
+
 ---
