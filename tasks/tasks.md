@@ -20,14 +20,17 @@
 - [ ] **2k24**
   - [ ] **1st-Sem**
     - [ ] **Mid-I**
-      - [ ] BasicCivilEngineering.jpeg
-      - [ ] CommunicativeEnglish.jpeg
-      - [ ] LinearAlgebraandCalculus.jpeg
+      - [x] BasicCivilEngineering.jpg
+      - [ ] EngineeringPhysics.jpg
+      - [ ] IntroductiontoProgramming.jpg
+      - [x] CommunicativeEnglish.jpg
+      - [x] LinearAlgebraandCalculus.jpg
     - [ ] **Mid-II**
-      - [ ] BasicMechanicalEngineering.jpeg
-      - [ ] EngineeringPhysics.jpeg
-      - [ ] IntroductiontoProgramming.jpeg
-      - [ ] LinearAlgebraandCalculus.jpeg
+      - [x] BasicMechanicalEngineering.jpg
+      - [x] EngineeringPhysics.jpg
+      - [x] IntroductiontoProgramming.jpg
+      - [x] LinearAlgebraandCalculus.jpg
+      - [ ] CommunicativeEnglish.jpg
   - [ ] **3rd-Sem**
     - [ ] **Mid-I**
     - [ ] **Mid-II**
@@ -38,11 +41,11 @@
 
 - [ ] **2k25**
   - [ ] **1st-Sem**
-    - [ ] **Mid-I**
-      - [ ] BasicCivilEngineering.jpg
-      - [ ] CommunicativeEnglish.jpg
-      - [ ] EngineeringPhysics.jpg
-      - [ ] IntroductiontoProgramming.jpg
-      - [ ] LinearAlgebraandCalculus.jpg
+    - [x] **Mid-I**
+      - [x] BasicCivilEngineering.jpg
+      - [x] CommunicativeEnglish.jpg
+      - [x] EngineeringPhysics.jpg
+      - [x] IntroductiontoProgramming.jpg
+      - [x] LinearAlgebraandCalculus.jpg
 
 ---
