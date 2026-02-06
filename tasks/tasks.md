@@ -1,4 +1,4 @@
-# JNTUGV Exam Papers - Complete File Structure
+# Exam Papers - Complete File Structure
 
 ## Repository: 2k23
 
