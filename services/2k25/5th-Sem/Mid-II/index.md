@@ -4,7 +4,7 @@ title: Services
 nav_exclude: true
 ---
 
-### {% octicon home-fill height:16 %} Home
+### 🏡 Home
 
 ---
 - [Computer Networks](https://github.com/JNTUGV-EXAM-PAPERS/2k25/tree/main/5th-Sem/Mid-II/ComputerNetworks.jpg)
