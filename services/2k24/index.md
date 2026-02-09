@@ -4,7 +4,7 @@ title: Services
 nav_exclude: true
 ---
 
-### 🏡 Home
+### {% octicon home-fill height:16 %} Home
 
 ---
 - [1st-Sem](1st-Sem/index.md)
