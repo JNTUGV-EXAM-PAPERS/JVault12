@@ -4,7 +4,7 @@ title: Services
 nav_exclude: true
 ---
 
-### 🏡 Home
+### {% octicon home-fill height:16 %} Home
 
 ---
 - [Discrete Mathematics](https://github.com/JNTUGV-EXAM-PAPERS/2k25/tree/main/3rd-Sem/External-Papers/DiscreteMathematics.jpg)

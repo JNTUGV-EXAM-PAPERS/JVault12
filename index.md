@@ -16,12 +16,16 @@ We offer a completely open-source collection of JNTUGV previous year papers to h
 
 ## 📦 Services:
 
-**[Previous Year Exam Papers](services/index.md) - Access comprehensive previous year exam papers for JNTUGV**
+**[Previous Year Exam Papers](services/index.md) - Access comprehensive previous year exam papers for JNTUGV - CSE**
 
 ----
 
 ## ✉️ Contact:
 
-***[GitHub](https://github.com/silven-mohan) \| [Mail](mailto: silven667@gmail.com) \| [Reddit](https://www.reddit.com/user/Silven_Mohan/) \| [LinkedIn](https://www.linkedin.com/in/silven-mohan-358738360/) \|***
+**[GitHub](https://github.com/silven-mohan) \| [Mail](mailto: silven667@gmail.com) \| [Reddit](https://www.reddit.com/user/Silven_Mohan/) \| [LinkedIn](https://www.linkedin.com/in/silven-mohan-358738360/) \|**
 
 ---
+
+>>[🤝 Contribute](https://github.com/JNTUGV-EXAM-PAPERS/JVault12)
+>>
+>>[🌐 Enhanced Version](https://jvault12.vercel.app/)
