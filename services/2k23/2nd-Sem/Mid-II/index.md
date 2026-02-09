@@ -4,7 +4,7 @@ title: Services
 nav_exclude: true
 ---
 
-### {% octicon home-fill height:16 %} Home
+### 🏡 Home
 
 ---
 - [Differential Equations and Vector Calculus](https://github.com/JNTUGV-EXAM-PAPERS/2k23/tree/main/2nd-Sem/Mid-II/DifferentialEquationsandVectorCalculus.jpg)

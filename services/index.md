@@ -3,7 +3,7 @@ layout: default
 title: Services
 ---
 
-### {% octicon home-fill height:16 %} Home
+### 🏡 Home
 
 ---
 

@@ -4,7 +4,7 @@ title: Services
 nav_exclude: true
 ---
 
-### {% octicon home-fill height:16 %} Home
+### 🏡 Home
 
 ---
 - [Managerial Economics and Financial Analysis](https://github.com/JNTUGV-EXAM-PAPERS/2k25/tree/main/4th-Sem/Mid-I/ManagerialEconomicsandFinancialAnalysis.jpg)

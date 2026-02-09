@@ -4,7 +4,7 @@ title: Services
 nav_exclude: true
 ---
 
-### {% octicon home-fill height:16 %} Home
+### 🏡 Home
 
 ---
 - [Mathematical Foundations for Computer Science](https://github.com/JNTUGV-EXAM-PAPERS/2k23/tree/main/3rd-Sem/Mid-II/MathematicalFoundationsforComputerScience.jpg)
